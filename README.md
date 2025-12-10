@@ -416,6 +416,4 @@ In this project, a variety of machine learning algorithms and models were experi
 
 - Light GBM - <https://lightgbm.readthedocs.io/en/v3.3.2/>
 
-## Kaggle Link:
-- Kaggle Notebook Link:  https://www.kaggle.com/code/rajkachhadiya/pubg-eda-and-feature-engineering-and-lightgbm
-- Kaggle Profile : https://www.kaggle.com/rajkachhadiya
+
